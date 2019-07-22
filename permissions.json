@@ -1,0 +1,147 @@
+{
+    "add_alias_record_example": {
+        "add_alias_record_example_page": [
+            "all"
+        ]
+    },
+    "add_dhcp_ip4_address_example": {
+        "add_dhcp_ip4_address_example_page": [
+            "all"
+        ]
+    },
+    "add_host_record_example": {
+        "add_host_record_example_page": [
+            "all"
+        ]
+    },
+    "add_static_ip4_address_example": {
+        "add_static_ip4_address_example_page": [
+            "all"
+        ]
+    },
+    "add_text_record_example": {
+        "add_text_record_example_page": [
+            "all"
+        ]
+    },
+    "admin": {
+        "general_configuration": [
+            "admin",
+            "all"
+        ],
+        "group_settings": [
+            "admin",
+            "all"
+        ],
+        "mail_configuration": [
+            "admin",
+            "all"
+        ],
+        "workflow_export_import": [
+            "admin",
+            "all"
+        ],
+        "workflow_permissions": [
+            "admin",
+            "all"
+        ]
+    },
+    "automation_examples": {
+        "automation_examples_page": [
+            "all"
+        ],
+        "automation_rest_examples_page": [
+            "all"
+        ]
+    },
+    "cisco_aci_example": {
+        "cisco_aci_example_page": [
+            "all"
+        ]
+    },
+    "configs": {
+        "general_configuration": [
+            "all"
+        ],
+        "mail_configuration": [
+            "all"
+        ]
+    },
+    "create_workflow": {
+        "workflow_page": [
+            "admin",
+            "all"
+        ]
+    },
+    "delete_alias_record_example": {
+        "delete_alias_record_example_page": [
+            "all"
+        ]
+    },
+    "delete_host_record_example": {
+        "delete_host_record_example_page": [
+            "all"
+        ]
+    },
+    "delete_ip4_address_example": {
+        "delete_ip4_address_example_page": [
+            "all"
+        ]
+    },
+    "delete_text_record_example": {
+        "delete_text_record_example_page": [
+            "all"
+        ]
+    },
+    "encrypt_password": {
+        "encrypt_password_page": [
+            "all",
+            "admin"
+        ]
+    },
+    "generic_ui_test": {
+        "generic_ui_test_page": [
+            "all"
+        ]
+    },
+    "postgres_example": {
+        "postgres_example_page": [
+            "all"
+        ]
+    },
+    "rest_example": {
+        "rest_example": [
+            "all"
+        ]
+    },
+    "selective_deployment": {
+        "selective_deployment_page": [
+            "all"
+        ]
+    },
+    "table_component": {
+        "table_component_page": [
+            "all"
+        ]
+    },
+    "update_alias_record_example": {
+        "update_alias_record_example_page": [
+            "all"
+        ]
+    },
+    "update_host_record_example": {
+        "update_host_record_example_page": [
+            "all"
+        ]
+    },
+    "update_ip4_address_example": {
+        "update_ip4_address_example_page": [
+            "all"
+        ]
+    },
+    "update_text_record_example": {
+        "update_text_record_example_page": [
+            "all"
+        ]
+    }
+}
